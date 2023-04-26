@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924185392933",
+    "project_id": "notifications-121a4",
+    "storage_bucket": "notifications-121a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924185392933:android:3f8ffaf11a78337ab18ccc",
+        "android_client_info": {
+          "package_name": "pe.homestudio.codigo6_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924185392933-fa3n6tk6up06bipe245kdjratrm3s9oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKnE2ZFRaLg9TB_9XE0JTAgCFl2KpzmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924185392933-fa3n6tk6up06bipe245kdjratrm3s9oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
